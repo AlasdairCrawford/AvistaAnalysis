@@ -1,0 +1,3 @@
+﻿  AvistaAnalysis.cpp
+c:\users\craw038\documents\visual studio 2010\projects\avistaanalysis\avistaanalysis\Form1.h(430): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  AvistaAnalysis.vcxproj -> C:\Users\craw038\documents\visual studio 2010\Projects\AvistaAnalysis\Release\AvistaAnalysis.exe
